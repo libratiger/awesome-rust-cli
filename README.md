@@ -11,7 +11,9 @@
 * [treeify](https://github.com/dzamlo/treeify) Tools like tree command
 * [shoop](https://github.com/mcginty/shoop) A high-speed encrypted file transfer tool reminiscent of scp
 * [xsv](https://github.com/BurntSushi/xsv) A fast CSV command line toolkit written in Rust
-
+* [bliss](https://github.com/ajmwagar/bliss) Generate .gitignore file 
+* [bat](https://github.com/sharkdp/bat) A linux cat tool in Rust 
+* [lsd](https://github.com/Peltoche/lsd) The next gen ls command 
 
 
 ## Markdown
